@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-emojione",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple shim for Emojione that exposes the library as an ES6 module.",
   "directories": {
     "doc": "doc",
