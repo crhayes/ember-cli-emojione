@@ -1,8 +1,19 @@
-# Ember-cli-emojione
+# ember-cli-tribute-shim
 
-This README outlines the details of collaborating on this Ember addon.
+A simple shim for [EmojiOne](https://github.com/Ranks/emojione) that exposes the library as an ES6 module.
 
 ## Installation
+
+Please install this addon into your Ember.js project using ember-cli:
+```
+ember install ember-cli-emojione
+```
+
+You can then import EmojiOne as an ES6 module:
+```js
+import emojione from 'emojione';
+````
+## Contributing
 
 * `git clone <repository-url>` this repository
 * `cd ember-cli-emojione`
