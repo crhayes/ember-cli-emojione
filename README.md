@@ -1,4 +1,4 @@
-# ember-cli-tribute-shim
+# ember-cli-emojione
 
 A simple shim for [EmojiOne](https://github.com/Ranks/emojione) that exposes the library as an ES6 module.
 
